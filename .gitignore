@@ -1,0 +1,84 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/JS-DataViz.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
+
+# Logs
+#logs
+#*.log
+
+
+
+
+
+
+# Compiled binary addons (https://nodejs.org/api/addons.html)
+build/Release
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# TypeScript v1 declaration files
+typings/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+
+### Python template
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+
+# Django stuff:
+local_settings.py
+db.sqlite3
+dev.py
+# prod.py
+prod.sample.py
+
+
+
+# pyenv
+.python-version
+
+# celery beat schedule file
+celerybeat-schedule
+
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
